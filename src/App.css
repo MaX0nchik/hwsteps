@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/icon?family=Material+Icons');
+
+.container{
+  display: block;
+  width: 100vw;
+  height: 100vh;
+  background-color: white;
+}
+
+input{
+  display: inline;
+  margin-left: 15px;
+  width: 200px;
+  height: 30px;
+  border-radius: 10px;
+}
+
+
+.buttonOk {
+  display: inline;
+  border-radius: 8px;
+  margin-left: 15px;
+  width: 70px;
+  height: 36px;
+  border: 1px solid black;
+  font-size: 1em;
+  font-weight: 500;
+  font-family: inherit;
+  background-color: #ffffff;
+  cursor: pointer;
+}
+
+button {
+  display: inline;
+  border-radius: 8px;
+  border: 0px;
+  width: 35px;
+  height: 30px;
+  margin-left: 12%;
+  font-size: 1em;
+  font-weight: 500;
+  font-family: inherit;
+  background-color: white;
+  cursor: pointer;
+}
+
+.km {
+  margin-left: 85px;
+  font-weight: bold;
+}
+
+.dt{
+  margin-left: 20px;
+  font-weight: bold;
+}
+
+table {
+  border: 1px solid black;
+  border-radius: 15px;
+  margin-left: 15px;
+  width: 510px;
+  margin-top: 15px;
+}
+
+.tddt {
+  font-weight: bold;
+  text-align: center;
+}
+
+.tdkm {
+  text-align: center;
+}
+
+.tdact {
+  align-items: center;
+}
